@@ -1,2 +1,2 @@
-# rm_radar_dynamix_backup
-make back up
+# rm_radar
+The ros wrapper of radar system.
